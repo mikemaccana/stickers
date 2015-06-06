@@ -2,7 +2,7 @@
 
 These are stickers. Most are either existing jokes or joke versions of logos. I (@mikemaccana) might have printed them out for you and gave them to you at some event somewhere.
 
-The MongoDB joke is @slexaxtons, I just licensed the right font and did the artwork. The horse.js belongs to @horse_js, I just found a higher res image of the mask and recreated it in higher res. The rest are from @mikemaccana.
+The MongoDB joke is @slexaxtons, I just licensed the right font and did the artwork. The horse.js belongs to @horse_js, I just found a higher res image of the mask and recreated it the image in higher res. The rest are from @mikemaccana.
 
 If you like them, please:
 
