@@ -2,9 +2,9 @@
 
 # Laptop Stickers
 
-These are stickers. Most are either existing jokes or joke versions of logos. I (@mikemaccana) might have printed them out for you and gave them to you at some event somewhere.
+These are stickers. Most are either existing jokes or joke versions of logos. I ([@mikemaccana](http://twitter.com/mikemaccana)) might have printed them out for you and gave them to you at some event somewhere.
 
-The MongoDB joke is @slexaxtons, I just licensed the right font and did the artwork. The horse.js belongs to @horse_js, I just found a higher res image of the mask and recreated it the image in higher res. The rest are from @mikemaccana.
+The MongoDB quote is by [@slexaxton](http://twitter.com/slexaxton), I just licensed the right font and did the artwork. The horse.js belongs to [@horse_js](http://twitter.com/horse_js), I just found a higher res image of the mask and recreated it the image in higher res. The rest are from @[@mikemaccana](http://twitter.com/mikemaccana).
 
 If you like them, please:
 
