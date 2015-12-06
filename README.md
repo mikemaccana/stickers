@@ -1,3 +1,5 @@
+<img src="preview.png" style="width: 600px;"/>
+
 # Laptop Stickers
 
 These are stickers. Most are either existing jokes or joke versions of logos. I (@mikemaccana) might have printed them out for you and gave them to you at some event somewhere.
