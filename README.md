@@ -8,7 +8,7 @@ The MongoDB quote is by [@slexaxton](http://twitter.com/slexaxton), I just licen
 
 If you like them, please:
 
- - Print them and give them away. In Europe, [Diginate](diginate.com), in the US [Stickermule](stickermule.com).
+ - Print them and give them away. In Europe, [Diginate](https://diginate.com), in the US [Stickermule](https://stickermule.com).
  - Give me credit for making them (maybe a link to me or this repo) if you show them off on social media.
  - Feel free to send me a pull request and add more!
 
