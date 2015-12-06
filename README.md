@@ -4,7 +4,7 @@
 
 These are stickers. I ([@mikemaccana](http://twitter.com/mikemaccana)) might have printed them out for you and gave them to you at some event somewhere.
 
-The MongoDB quote is by [@slexaxton](http://twitter.com/slexaxton), I just licensed the right font and did the artwork. The horse.js belongs to [@horse_js](http://twitter.com/horse_js), I found a higher res image of the mask and recreated it the image in higher res. The rest are from @[@mikemaccana](http://twitter.com/mikemaccana).
+The MongoDB quote is by [@slexaxton](http://twitter.com/slexaxton), I just licensed the right font and did the artwork. The horse.js belongs to [@horse_js](http://twitter.com/horse_js), I found a higher res image of the mask and recreated it the image in higher res. The rest are from [@mikemaccana](http://twitter.com/mikemaccana).
 
 If you like them, please:
 
